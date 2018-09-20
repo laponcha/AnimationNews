@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationNews</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_animation_news">No animation news found.</string>
+    <string name="no_news_found">No animation news found.</string>
+    <string name="film">Film</string>
+    <string name="life_and_style">Life and Style</string>
+
+</resources>
